@@ -1,0 +1,336 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-Czd {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.desktop-2-Czd .auto-group-ykjh-vfj {
+  margin-bottom: 9.25rem;
+  box-sizing: border-box;
+  padding: 2.2rem 1.8rem 1.6rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #0174ab;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-ykjh-vfj .kjsce-logo-1-RsP {
+  margin-right: 1.5rem;
+  width: 13.8rem;
+  height: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-ykjh-vfj .blacketalogo-1-mAZ {
+  margin: 0rem 8.4rem 1.9rem 0rem;
+  width: 28.9rem;
+  height: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-ykjh-vfj .home-shell-eco-marathon-cars-blog-sponsors-team-alumni-contact-sUV {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.17rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .team-eta-is-a-student-team-that-participates-annually-in-the-shell-eco-marathon-shell-eco-marathon-is-one-of-the-worlds-leading-energy-efficiency-competition-programmes-students-are-challenged-to-design-build-and-test-energy-efficient-cars-pushing-the-boundaries-of-what-is-technically-possible-KbP {
+  margin-left: 0.7rem;
+  max-width: 139.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  letter-spacing: 0.32rem;
+  color: #ffffff;
+  font-family: Open Sans Hebrew, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D {
+  box-sizing: border-box;
+  padding: 8.85rem 2.95rem 3.4rem 3.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh {
+  margin-bottom: 7rem;
+  width: 100%;
+  height: 135.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .image-2-KdK {
+  width: 110rem;
+  height: 59.6rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .rectangle-2-Dih {
+  width: 51rem;
+  height: 66.8rem;
+  position: absolute;
+  left: 0;
+  top: 11.4rem;
+  border: solid 0.2rem #0174ab;
+  box-sizing: border-box;
+  background-color: rgba(10, 11, 11, 0.7799999714);
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .to-build-a-fuel-efficient-vehicle-to-combat-current-problem-and-create-a-sustainable-future-for-coming-generations-we-are-eta-a-compassionate-group-of-young-engineers-who-believe-in-bringing-a-change-to-the-traditional-conventions-followed-in-todays-automobile-industry-leading-to-a-carbon-neutral-earth-vND {
+  width: 46.4rem;
+  height: 36.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 26.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  letter-spacing: 0.36rem;
+  color: #0174ab;
+  font-family: Marcellus, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .our-vision-GqP {
+  width: 15.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 30.85rem;
+  top: 67.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  letter-spacing: 0.24rem;
+  color: #0174ab;
+  font-family: Marcellus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .image-1-xiD {
+  width: 73.7rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 0;
+  top: 83rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .about-us-rob {
+  width: 38.6rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 85.95rem;
+  top: 64.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Marcellus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-fr23-CYh .it-all-started-in-2013-when-a-group-of-students-from-kj-somaiya-college-of-engineering-felt-the-need-to-use-their-technical-knowledge-and-management-skills-to-develop-and-innovate-technology-for-the-benefit-of-mankind-that-is-when-they-all-came-together-as-team-eta-with-a-goal-of-providing-a-sustainable-future-to-the-world-using-technological-innovations-to-achieve-mileage-in-numbers-that-appeared-to-be-just-a-dream-for-the-current-world-since-then-the-team-worked-tirelessly-with-the-utmost-commitment-dedication-and-countless-of-sleepless-nights-to-develop-and-be-the-proud-makers-of-jugaad-j-14-arya-triton-mahil-and-yugant-prototypes-j6h {
+  width: 61rem;
+  height: 59rem;
+  position: absolute;
+  left: 76.65rem;
+  top: 76.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.365;
+  letter-spacing: 0.36rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .line-1-Xwf {
+  margin: 0rem 1.05rem 6.1rem 0rem;
+  width: 135.8rem;
+  height: 0.2rem;
+  background-color: #07f0ff;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d {
+  margin: 0rem 5.45rem 6.6rem 3.1rem;
+  width: calc(100% - 8.55rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .team-members-AUq {
+  margin-right: 5.3rem;
+  max-width: 22.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .team-members-AUq .team-members-AUq-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .team-members-AUq .team-members-AUq-sub-1 {
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .cars-designed-VBf {
+  margin: 0.2rem 6.8rem 0rem 0rem;
+  max-width: 19.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .cars-designed-VBf .cars-designed-VBf-sub-0 {
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .cars-designed-VBf .cars-designed-VBf-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .awards-won-pdF {
+  margin-right: 5.2rem;
+  max-width: 19.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .awards-won-pdF .awards-won-pdF-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .awards-won-pdF .awards-won-pdF-sub-1 {
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .national-event-won-zRF {
+  margin: 0.4rem 3.4rem 0rem 0rem;
+  max-width: 23rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .national-event-won-zRF .national-event-won-zRF-sub-0 {
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .national-event-won-zRF .national-event-won-zRF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .international-event-won-X3o {
+  max-width: 23.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .international-event-won-X3o .international-event-won-X3o-sub-0 {
+}
+.desktop-2-Czd .auto-group-tmek-t2D .auto-group-dhet-T4d .international-event-won-X3o .international-event-won-X3o-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.96rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-Czd .auto-group-tmek-t2D .remaining-same-as-previous-website-h6h {
+  margin-right: 3.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.365;
+  letter-spacing: 0.36rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,595 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-4-7FP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.desktop-4-7FP .auto-group-fur7-dUd {
+  box-sizing: border-box;
+  padding: 2.2rem 1.8rem 1.6rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #0174ab;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-fur7-dUd .kjsce-logo-1-Z7P {
+  margin-right: 1.5rem;
+  width: 13.8rem;
+  height: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-fur7-dUd .blacketalogo-1-67K {
+  margin: 0rem 8.4rem 1.9rem 0rem;
+  width: 28.9rem;
+  height: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-fur7-dUd .home-shell-eco-marathon-cars-blog-sponsors-team-alumni-contact-cLZ {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.17rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-dkyj-5zq {
+  margin-bottom: 4.15rem;
+  box-sizing: border-box;
+  padding: 19.9rem 37.3rem 19.6rem 42.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-17-bg.png');
+  background-color: rgba(217, 217, 217, 0.7300000191);
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-dkyj-5zq .prototypes-ofw {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  letter-spacing: 0.96rem;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-dkyj-5zq .line-2-8CR {
+  margin-right: 0.6rem;
+  width: 57.2rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .our-cars-22u {
+  margin: 0rem 0rem 9.35rem 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .yugant-2019-XEZ {
+  margin-left: 0.2rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .yugant-2019-XEZ .yugant-2019-XEZ-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .yugant-2019-XEZ .yugant-2019-XEZ-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB {
+  box-sizing: border-box;
+  padding: 3.9rem 3.8rem 4.8rem 5.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-vqq5-sbF {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 49.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-vqq5-sbF .auto-group-m9qm-1xM {
+  margin: 3.6rem 6rem 4.7rem 0rem;
+  width: 73.8rem;
+  height: calc(100% - 8.3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-vqq5-sbF .auto-group-m9qm-1xM .rectangle-5-jNZ {
+  width: 69.4rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 7.2rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-vqq5-sbF .auto-group-m9qm-1xM .yugant-1-eVX {
+  width: 70.7rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-vqq5-sbF .yugant-may-represent-the-end-of-gasoline-powered-cars-and-the-dawn-of-eco-friendly-transportation-it-represents-the-transition-to-renewable-energy-which-may-stimulate-development-innovation-and-sustainability-it-also-implies-longevity-durability-and-the-end-of-an-era-and-the-start-of-a-sustainable-one-from-the-research-phase-to-getting-yugant-on-track-every-team-member-imagined-coordinated-and-constantly-battled-until-the-perfect-result-was-achieved-aPB {
+  max-width: 54.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .mahil-2019-9z1 {
+  margin: 0rem 0rem 5.5rem 3.1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .mahil-2019-9z1 .mahil-2019-9z1-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .mahil-2019-9z1 .mahil-2019-9z1-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-th6b-F9s {
+  margin: 0rem 2.454rem 3.5rem 0.75rem;
+  width: calc(100% - 3.2039rem);
+  height: 48.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-th6b-F9s .the-hard-work-of-team-to-give-shape-to-ideas-to-achieve-the-best-work-ever-paid-of-in-2019-justifying-the-name-given-mahil-succeeded-in-securing-the-first-rank-in-shell-eco-marathon-india-2019-by-knocking-an-unbelievable-mileage-of-270-kmpl-mahil-was-the-first-prototype-to-complete-the-technical-inspections-at-the-event-among-23-other-teams-winning-the-safety-award-setting-a-benchmark-and-motivation-for-team-xpy {
+  margin-right: 7.45rem;
+  max-width: 59rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-th6b-F9s .auto-group-x1nb-87B {
+  margin: 3.4rem 0rem 5.1rem 0rem;
+  width: 64.7461rem;
+  height: calc(100% - 8.5rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-th6b-F9s .auto-group-x1nb-87B .rectangle-6-Eg1 {
+  width: 61.5rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-th6b-F9s .auto-group-x1nb-87B .mahil-1-xc1 {
+  width: 61.2461rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .triton-2017-5Aq {
+  margin: 0rem 0rem 3.75rem 0.1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .triton-2017-5Aq .triton-2017-5Aq-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .triton-2017-5Aq .triton-2017-5Aq-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-ey7d-yvR {
+  margin: 0rem 4.45rem 7.9rem 0rem;
+  width: calc(100% - 4.45rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-ey7d-yvR .auto-group-8tjy-Jho {
+  margin-right: 14.35rem;
+  width: 65.7rem;
+  height: 42.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-ey7d-yvR .auto-group-8tjy-Jho .rectangle-7-T4u {
+  width: 64rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 10.3rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-ey7d-yvR .auto-group-8tjy-Jho .triton-1-mbP {
+  width: 61.2461rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-ey7d-yvR .keeping-the-legacy-of-its-previous-prototype-intact-team-eta-stood-up-to-its-name-with-their-latest-and-most-advanced-prototype-triton-engineered-to-perfection-this-prototype-was-the-first-one-from-india-to-participate-in-shell-eco-marathon-asia-2017-singapore-having-a-carbon-fiber-monocoque-structured-body-W3B {
+  margin-bottom: 0.85rem;
+  max-width: 49.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .arya-2015-Uu7 {
+  margin: 0rem 2rem 5.5rem 0rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .arya-2015-Uu7 .arya-2015-Uu7-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .arya-2015-Uu7 .arya-2015-Uu7-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-zchz-yUV {
+  margin: 0rem 2.454rem 3.5rem 1.35rem;
+  width: calc(100% - 3.8039rem);
+  height: 48.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-zchz-yUV .participated-in-shell-eco-marathon-asia-2015-philippines-this-first-prototype-of-team-eta-to-have-a-carbon-fiber-shell-to-improve-aerodynamics-along-with-a-aluminum-space-frame-for-strength-and-rigidity-this-prototype-not-only-stood-5th-in-asia-but-also-helped-to-officially-mark-ourselves-the-best-team-in-india-with-an-astonishing-mileage-of-153-kmpl-gth {
+  margin-right: 14.85rem;
+  max-width: 50.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-zchz-yUV .auto-group-oxjq-Tny {
+  margin: 3.4rem 0rem 4.3rem 0rem;
+  width: 65.4461rem;
+  height: calc(100% - 7.7rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-zchz-yUV .auto-group-oxjq-Tny .rectangle-8-PAq {
+  width: 61.5rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.4rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-zchz-yUV .auto-group-oxjq-Tny .arya-1-hxD {
+  width: 61.2461rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .j-14-2014-EhF {
+  margin: 0rem 9.3rem 5.4rem 0rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .j-14-2014-EhF .j-14-2014-EhF-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .j-14-2014-EhF .j-14-2014-EhF-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .j-14-2014-EhF .j-14-2014-EhF-sub-2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-z5fz-iVw {
+  margin: 0rem 4.3rem 7.8rem 1.4rem;
+  width: calc(100% - 5.7rem);
+  height: 41.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-z5fz-iVw .auto-group-9obz-ePb {
+  margin-right: 14.2rem;
+  width: 64.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-z5fz-iVw .auto-group-9obz-ePb .rectangle-9-Pc5 {
+  width: 61.5rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 10.1rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-z5fz-iVw .auto-group-9obz-ePb .j-14-1-7HB {
+  width: 61.2461rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-z5fz-iVw .the-successor-of-the-13-prototype-j-14-with-not-just-an-improved-design-but-with-a-glass-fiber-body-shell-along-with-the-saffron-white-green-aesthetic-design-representing-the-indian-tricolor-was-the-highlight-of-the-prototype-2uw {
+  margin-bottom: 4.8rem;
+  max-width: 50rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .jugaad-2013-3a9 {
+  margin: 0rem 6.9rem 3.7rem 0rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.439453125;
+  letter-spacing: 2.64rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .jugaad-2013-3a9 .jugaad-2013-3a9-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 4.8rem;
+  color: #0174ab;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .jugaad-2013-3a9 .jugaad-2013-3a9-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  letter-spacing: 2.64rem;
+  color: #252a9f;
+  font-family: Istok Web, 'Source Sans Pro';
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-tjqu-nRF {
+  margin: 0rem 2.654rem 0rem 1.75rem;
+  width: calc(100% - 4.4039rem);
+  height: 41.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-tjqu-nRF .jugaad-was-the-first-prototype-built-by-team-eta-participated-in-shell-eco-marathon-asia-2013-malaysia-this-sheet-metal-prototype-was-designed-with-sheer-determination-and-innovation-and-hence-named-jugaad-ukm {
+  margin: 0rem 14.95rem 4.9rem 0rem;
+  max-width: 49.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #ffffff;
+  font-family: Julius Sans One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-tjqu-nRF .auto-group-1h6j-8tR {
+  width: 65.5461rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-tjqu-nRF .auto-group-1h6j-8tR .rectangle-10-tch {
+  width: 61.5rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.8rem;
+  border: solid 0.5rem #0174ab;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.desktop-4-7FP .auto-group-jmsh-xjB .auto-group-tjqu-nRF .auto-group-1h6j-8tR .jugaad-1-cHo {
+  width: 61.2461rem;
+  height: 37.1rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
